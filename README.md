@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://giphy.com/embed/ZJAjILCrZXU8XeFnqm" width="100%" title="Intro Card" alt="Intro Card">
 </p>
-<img src="https://giphy.com/embed/ZJAjILCrZXU8XeFnqm" width="480" height="270" ></img><p><a href="https://giphy.com/gifs/ZJAjILCrZXU8XeFnqm">via GIPHY</a></p>
+<img src="https://media.giphy.com/media/ZJAjILCrZXU8XeFnqm/giphy.gif" width="480" height="270" ></img><p><a href="https://media.giphy.com/media/ZJAjILCrZXU8XeFnqm/giphy.gif">via GIPHY</a></p>
 <!--
 **sivi922/sivi922** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
